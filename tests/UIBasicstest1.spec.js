@@ -11,3 +11,8 @@ test.only('Page Playwrigth test',async ({page})=>
 {
     await page.goto("https://google.com");
 });
+
+test('this is second test case', async ({page})=>
+{
+await page.goto("https://www.amazon.in/")
+});
