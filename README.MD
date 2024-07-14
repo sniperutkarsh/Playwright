@@ -18,3 +18,7 @@
 
  ```git push```
 
+ ### Link to other Docs:
+
+ [basics](docs/basics.md)
+
