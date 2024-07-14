@@ -12,9 +12,9 @@
 
  ## Commit changes to local:
 
- ```git commit -m "Commit Messag```
+ ```git commit -m "Commit Message"```
 
  ## Push changes to master branch:
 
- ```git commit```
+ ```git push```
 
